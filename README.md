@@ -2,7 +2,7 @@
 My solutions to [CodingGame](www.codingame.com) puzzles. If you like to solve interesting challenges give it a try.
 
 ## Purpose
-This repository serves as my personal record and a **TODO list**.
+This repository serves as my [personal record](https://www.codingame.com/profile/b7d6a684a7ad347cefd71bb025226297525979) and a **TODO list**.
 
 ## Single Player
 
