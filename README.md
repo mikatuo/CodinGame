@@ -10,7 +10,7 @@ This repository serves as my personal record and a **TODO list**.
 - **TODO**: Commit solutions.
 
 ### Medium
-- [ ] [Skynet: the Virus](https://www.codingame.com/games/puzzles/1) `Graph theory`
+- [x] [Skynet: the Virus (2/3)](https://www.codingame.com/games/puzzles/1) `Graph theory`
 - [x] [APU: Init Phase](https://www.codingame.com/games/puzzles/54) `Searching in a list`
 - [x] [Mars Lander - Level 2](https://www.codingame.com/games/puzzles/12) `Position, speed and angle regulation`
 - [ ] Winamax Sponsored Contest
