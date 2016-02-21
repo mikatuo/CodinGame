@@ -16,7 +16,7 @@ This repository serves as my [personal record](https://www.codingame.com/profile
 - [ ] Winamax Sponsored Contest
 - [ ] The Paranoid Android
 - [x] [Heat Detector](https://www.codingame.com/games/puzzles/41) `Trilateration`
-- [ ] Stock Exchange Losses
+- [x] [Stock Exchange Losses](https://www.codingame.com/games/puzzles/13) `Search through a set of values`
 - [ ] Teads Sponsored Contest
 - [ ] Indiana - Level 1
 - [ ] Network Cabling
