@@ -7,7 +7,16 @@ This repository serves as my [personal record](https://www.codingame.com/profile
 ## Single Player
 
 ### Easy
-- **TODO**: Commit solutions.
+- [x] [Power of Thor](https://www.codingame.com/games/puzzles?puzzleId=4) `Grid / Maze, Conditions`
+- [x] [The Descent](https://www.codingame.com/games/puzzles?puzzleId=3) `Searching in a list`
+- [x] [Skynet: the Chasm](https://www.codingame.com/games/puzzles?puzzleId=2) `Conditions`
+- [x] [Temperatures](https://www.codingame.com/games/puzzles?puzzleId=5) `Searching in a list`
+- [x] [Mars Lander - Level 1](https://www.codingame.com/games/puzzles?puzzleId=40) `Conditions, Speed regulation`
+- [x] [ASCII Art](https://www.codingame.com/games/puzzles?puzzleId=6) `String manipulation`
+- [x] [Chuck Norris](https://www.codingame.com/games/puzzles?puzzleId=7) `Encoding / Decoding & cyphering`
+- [x] [MIME Type](https://www.codingame.com/games/puzzles?puzzleId=8) `Associative arrays, String manipulation`
+- [x] [Defibrillators](https://www.codingame.com/games/puzzles?puzzleId=9) `Open data, Distance calculation`
+- [x] [Horse-racing Duals](https://www.codingame.com/games/puzzles?puzzleId=10) `Searching in a list, Sorting`
 
 ### Medium
 - [x] [Skynet: the Virus (2/3)](https://www.codingame.com/games/puzzles/1) `Graph theory`
