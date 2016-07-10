@@ -22,14 +22,14 @@ This repository serves as my [personal record](https://www.codingame.com/profile
 - [x] [Skynet: the Virus (2/3)](https://www.codingame.com/games/puzzles/1) `Graph theory`
 - [x] [APU: Init Phase](https://www.codingame.com/games/puzzles/54) `Searching in a list`
 - [x] [Heat Detector](https://www.codingame.com/games/puzzles/41) `Trilateration`
-- [ ] [The Paranoid Android](https://www.codingame.com/games/puzzles?puzzleId=47) `Pathfinding, Greedy algorithms`
+- [x] [The Paranoid Android](https://www.codingame.com/games/puzzles?puzzleId=47) `Pathfinding, Greedy algorithms`
 - [ ] [Winamax Sponsored Contest](https://www.codingame.com/games/puzzles?puzzleId=50) `String manipulation`
 - [x] [Mars Lander - Level 2](https://www.codingame.com/games/puzzles/12) `Position, speed and angle regulation`
 - [x] [Stock Exchange Losses](https://www.codingame.com/games/puzzles/13) `Searching in a list`
-- [ ] [Indiana - Level 1](https://www.codingame.com/games/puzzles?puzzleId=11) `Associative arrays, Grid / Maze`
+- [x] [Indiana - Level 1](https://www.codingame.com/games/puzzles?puzzleId=11) `Associative arrays, Grid / Maze`
 - [ ] [Teads Sponsored Contest](https://www.codingame.com/games/puzzles?puzzleId=51) `Graph theory`
 - [ ] [Network Cabling](https://www.codingame.com/games/puzzles?puzzleId=14) `Maths`
-- [ ] [Conway Sequence](https://www.codingame.com/games/puzzles?puzzleId=15) `Sequences`
+- [x] [Conway Sequence](https://www.codingame.com/games/puzzles?puzzleId=15) `Sequences`
 - [ ] [Telephone Numbers](https://www.codingame.com/games/puzzles?puzzleId=16) `Data structures`
 - [ ] [Dwarfs standing on the shoulders of giants](https://www.codingame.com/games/puzzles?puzzleId=17) `Graph theory`
 - [ ] [Bender, a depressed robot](https://www.codingame.com/games/puzzles?puzzleId=18) `State machine`
