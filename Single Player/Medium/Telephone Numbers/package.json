@@ -1,0 +1,16 @@
+{
+  "name": "telephone-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "mocha --reporter spec **/*.spec.js",
+    "test:watch": "npm run test -- --watch"
+  },
+  "author": "Denis Shendrik",
+  "license": "MIT",
+  "dependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^2.5.3"
+  }
+}

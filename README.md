@@ -30,7 +30,7 @@ This repository serves as my [personal record](https://www.codingame.com/profile
 - [ ] [Teads Sponsored Contest](https://www.codingame.com/games/puzzles?puzzleId=51) `Graph theory`
 - [ ] [Network Cabling](https://www.codingame.com/games/puzzles?puzzleId=14) `Maths`
 - [x] [Conway Sequence](https://www.codingame.com/games/puzzles?puzzleId=15) `Sequences`
-- [ ] [Telephone Numbers](https://www.codingame.com/games/puzzles?puzzleId=16) `Data structures`
+- [x] [Telephone Numbers](https://www.codingame.com/games/puzzles?puzzleId=16) `Data structures`
 - [ ] [Dwarfs standing on the shoulders of giants](https://www.codingame.com/games/puzzles?puzzleId=17) `Graph theory`
 - [ ] [Bender, a depressed robot](https://www.codingame.com/games/puzzles?puzzleId=18) `State machine`
 - [ ] [Scrabble](https://www.codingame.com/games/puzzles?puzzleId=19) `Associative arrays`
